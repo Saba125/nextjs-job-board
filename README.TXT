@@ -1,1 +1,0 @@
-Welcome to Flow-Jobs. Flow-Jobs is a platform where users can find their dream job very easily as it provides features such as filtering out options, which makes user interface more beautiful and also makes user have easier experience.
